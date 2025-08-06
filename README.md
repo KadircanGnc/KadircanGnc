@@ -20,12 +20,3 @@
 ## 🦾 Currently Exploring
 
 - Cloud computing ☁️
-- Advanced front-end vibes
-- Real-world cyber security basics
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/>
-  <br>
-  <b>Keep coding. Stay curious. Level up. ⚡</b>
-</div>
